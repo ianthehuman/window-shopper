@@ -1,6 +1,6 @@
 //
-//  window_shopperTests.swift
-//  window-shopperTests
+//  math_test.swift
+//  math-test
 //
 //  Created by Ian Value on 10/27/17.
 //  Copyright © 2017 intoTheElements. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class window_shopperTests: XCTestCase {
+class math_test: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -2,13 +2,13 @@
 //  ViewController.swift
 //  window-shopper
 //
-//  Created by Ian Value on 10/18/17.
+//  Created by Ian Value on 10/27/17.
 //  Copyright © 2017 intoTheElements. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
